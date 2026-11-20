@@ -62,6 +62,7 @@ products:
     model_id: E157
   - id: keytfesxxsqewnqy
     manufacturer: Daybetter
+  - id: 2aou8swplhtoapxq
 entities:
   - entity: light
     dps:
