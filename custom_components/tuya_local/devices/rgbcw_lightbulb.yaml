@@ -62,6 +62,10 @@ products:
     model_id: E157
   - id: keytfesxxsqewnqy
     manufacturer: Daybetter
+  - id: nmeo0wsyvjs7rz3b
+    model: W505Z1 candle bulb
+  - id: w57tepkyqlsegcov
+    model: W505Z2 candle bulb
 entities:
   - entity: light
     dps:
